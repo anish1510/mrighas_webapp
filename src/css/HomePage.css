@@ -1,0 +1,323 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lato", sans-serif;
+}
+
+.home-main-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 650%;
+    width: 100%;
+    /* background: linear-gradient(white, #a0a0a0); */
+    background-color: #090812;
+    overflow: hidden;
+}
+
+.navigation-div {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    z-index: 10;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    width: 50px;
+}
+
+.home-btn {
+    text-decoration: none;
+    color: #D24896;
+    font-weight: bold;
+}
+
+#btn-1 {
+    position: absolute;
+    top: 35px;
+    left: 930px;
+    right: auto;
+}
+
+#btn-2 {
+    position: absolute;
+    top: 35px;
+    left: 1010px;
+    right: auto;
+}
+
+#btn-3 {
+    position: absolute;
+    top: 35px;
+    left: 1165px;
+    right: auto; 
+}
+
+#btn-4 {
+    position: absolute;
+    top: 35px;
+    left: 1275px;
+    right: auto;  
+}
+
+#btn-5 {
+    position: absolute;
+    top: 35px;
+    left: 1410px;
+    right: auto; 
+}
+
+#btn-1:hover {
+    color: white;
+}
+
+#btn-2:hover {
+    color: white;
+}
+
+#btn-3:hover {
+    color: white;
+}
+#btn-4:hover {
+    color: white;
+}
+#btn-5:hover {
+    color: white;
+}
+
+.company-desc-div {
+    position: relative;
+    top: 150px;
+    left: 400px;
+    right: auto;
+}
+
+.company-desc-p-1 {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    right: auto;
+    font-size: 50px;
+    color: #b8e0fb;
+    font-weight: 900;
+}
+
+.company-desc-p-2 {
+    position: absolute;
+    top: 77px;
+    left: 0px;
+    right: auto;
+    width: 549px;
+    font-size: 22px;
+    color: white;
+}
+
+.company-desc-btn {
+    position: absolute;
+    top: 150px;
+    left: 12px;
+    right: auto;
+    width: 180px;
+    height: 60px;
+    border: 3px solid white;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.company-desc-img {
+    position: absolute;
+    top: -20px;
+    left: 667px;
+    width: 490px;
+}
+
+.trust-div {
+    position: relative;
+    top: 492px;
+    left: 00px;
+    height: 250px;
+    background-image: url('../images/SL.png');
+}
+
+.trust-p {
+    position: absolute;
+    top: 44px;
+    left: 400px;
+    right: auto;
+    color: white;
+    font-size: 36px;
+    width: 514px;
+}
+
+.trust-btn {
+    position: absolute;
+    top: 150px;
+    left: 412px;
+    right: auto;
+    width: 180px;
+    height: 60px;
+    border: 3px solid white;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    cursor: pointer; 
+}
+
+.hero_iphone {
+    position: absolute;
+    top: 0px;
+    width: 310px;
+    left: 1138px;
+    right: auto;
+}
+
+.provide-div {
+    position: relative;
+    top: 500px;
+    left: 400px;
+    width: 1165px;
+    height: auto;
+}
+
+.provide-p {
+    position: absolute;
+    top: 90px;
+    left: 400px;
+    color: #b8e0fb;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.provide-div-1 {
+    position: absolute;
+    top: 190px;
+    left: 50px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.provide-div-2 {
+    position: absolute;
+    top: 190px;
+    left: 400px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.provide-div-3 {
+    position: absolute;
+    top: 190px;
+    left: 750px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.provide-div-4 {
+    position: absolute;
+    top: 490px;
+    left: 50px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.provide-div-5 {
+    position: absolute;
+    top: 490px;
+    left: 400px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.provide-div-6 {
+    position: absolute;
+    top: 490px;
+    left: 750px;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2b2a2f;
+    display: flex;
+    justify-content: center;
+}
+
+.proimg {
+    position: absolute;
+    top: 5px;
+    width: 100px;
+}
+
+.proheader {
+    position: absolute;
+    top: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.prodesc {
+    position: absolute;
+    top: 150px;
+    width: 280px;
+    color : white
+}
+
+.proimg-2 {
+    position: absolute;
+    top: 5px;
+    width: 75px;
+}
+
+.proimg-3 {
+    position: absolute;
+    top: 5px;
+    width: 60px;
+}
+
+.service-div {
+    position: absolute;
+    top: 1500px;
+    left: 400px;
+    width: 1050px;
+    height: 1000px;
+    border: 2px solid red;
+}
+
+.service-p {
+    position: absolute;
+    top: 40px;
+    left: 90px;
+    right: auto;
+    color: #b8e0fb;
+    font-size: 30px;
+    font-weight: bold;
+    width: 603px;
+    text-align: left;
+}
