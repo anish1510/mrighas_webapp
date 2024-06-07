@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router basename="/mrighas_webapp">
+      <Router basename="/">
           <Routes>
             <Route exact path="/" element={<HomePage />} />
           </Routes>
