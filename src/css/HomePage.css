@@ -23,12 +23,13 @@
     height: 80px;
     width: 100%;
     z-index: 10;
+    background-color: #090812;
 }
 
 .logo {
     position: absolute;
     top: 10px;
-    left: 400px;
+    left: 326px;
     width: 50px;
 }
 
@@ -145,6 +146,7 @@
     left: 00px;
     height: 250px;
     background-image: url('../images/SL.png');
+    background-size: cover;
 }
 
 .trust-p {
@@ -303,21 +305,719 @@
 
 .service-div {
     position: absolute;
-    top: 1500px;
+    top: 1539px;
     left: 400px;
     width: 1050px;
-    height: 1000px;
-    border: 2px solid red;
+    height: 578px;
 }
 
 .service-p {
     position: absolute;
     top: 40px;
-    left: 90px;
+    left: 152px;
     right: auto;
     color: #b8e0fb;
     font-size: 30px;
     font-weight: bold;
     width: 603px;
     text-align: left;
+}
+
+.checkmark {
+    width: 30px;
+    position: absolute;
+    top: 177px;
+    left : 152px
+}
+
+.service-p-1 {
+    position: absolute;
+    top: 181px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.checkmark-2 {
+    width: 30px;
+    position: absolute;
+    top: 241px;
+    left : 152px
+}
+
+.checkmark-3 {
+    width: 30px;
+    position: absolute;
+    top: 307px;
+    left : 152px
+}
+
+.checkmark-4 {
+    width: 30px;
+    position: absolute;
+    top: 376px;
+    left : 152px
+}
+
+.checkmark-5 {
+    width: 30px;
+    position: absolute;
+    top: 449px;
+    left : 152px
+}
+
+.checkmark-6 {
+    width: 30px;
+    position: absolute;
+    top: 521px;
+    left : 152px
+}
+
+.service-p-2 {
+    position: absolute;
+    top: 244px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.service-p-3 {
+    position: absolute;
+    top: 311px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.service-p-4 {
+    position: absolute;
+    top: 380px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.service-p-5 {
+    position: absolute;
+    top: 453px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.service-p-6 {
+    position: absolute;
+    top: 526px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tradeimg{
+    position: absolute;
+    top: 100px;
+    left: 627px;
+    right: auto;
+    width: 500px;
+}
+
+.ai-div {
+    position: absolute;
+    top: 2219px;
+    left: 400px;
+    width: 1050px;
+    height: 500px;
+}
+
+.ai-p {
+    position: absolute;
+    top: 10px;
+    left: auto;
+    right: 115px;
+    color: #b8e0fb;
+    font-size: 30px;
+    font-weight: bold;
+    width: 511px;
+}
+
+.ai-ul {
+    position: absolute;
+    right: 10px;
+    left: auto;
+    top: 114px;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    width: 711px;
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+}
+
+.aiimg {
+    position: absolute;
+    top: 5px;
+    left: -144px;
+    right: auto;
+    width: 545px;
+}
+
+.deliver-div {
+    position: absolute;
+    top: 2766px;
+    left: 400px;
+    right: auto;
+    width: 1050px;
+    height: 500px;
+}
+
+.deliver-p-1 {
+    position: absolute;
+    top: 10px;
+    left: 209px;
+    color: #b8e0fb;
+    font-size: 30px;
+    font-weight: bold;
+    width: 582px;
+}
+
+.deliver-p-2 {
+    position: absolute;
+    right: auto;
+    left: 100px;
+    top: 79px;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    width: 831px;
+}
+
+.ximg {
+    position: absolute;
+    top: 160px;
+    left: 122px;
+    width: 125px;
+}
+
+.sleepimg {
+    position: absolute;
+    top: 160px;
+    left: 485px;
+    width: 125px;
+
+}
+
+.botimg {
+    position: absolute;
+    top: 160px;
+    left: 800px;
+    width: 125px; 
+}
+
+.deliver-p-3 {
+    position: absolute;
+    top: 300px;
+    left: 46px;
+    right: auto;
+    width: 300px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.deliver-p-4 {
+    position: absolute;
+    top: 300px;
+    left: 388px;
+    right: auto;
+    width: 300px;
+    color: white;
+    font-weight: bold;  
+}
+
+
+.deliver-p-5 {
+    position: absolute;
+    top: 300px;
+    left: 723px;
+    right: auto;
+    width: 300px;
+    color: white;
+    font-weight: bold;  
+}
+
+.expert-div {
+    position: absolute;
+    top: 3190px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height: 295px;
+    background: linear-gradient(rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.103)), url('../images/expertimg.avif');
+    background-size: cover;
+}
+
+.expert-p {
+    position: absolute;
+    top: 75px;
+    left: 575px;
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+}
+
+.enquire-btn {
+    position: absolute;
+    top: 150px;
+    left: 766px;
+    width: 150px;
+    height: 60px;
+    background-color: #D24896;
+    font-size: 17px;
+    border: 2px solid #b8e0fb;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.enquire-btn:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.whatsapp-btn:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.whatsapp-btn {
+    position: absolute;
+    top: 150px;
+    left: 966px;
+    width: 150px;
+    height: 60px;
+    background-color: #D24896;
+    font-size: 17px;
+    border: 2px solid #b8e0fb;
+    border-radius: 20px;
+    font-weight: bold; 
+}
+
+.services-div {
+    position: absolute;
+    top: 3522px;
+    left: 400px;
+    width: 1150px;
+    height: 700px;
+}
+
+.services-p {
+    position: absolute;
+    top: 20px;
+    left: 430px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #b8e0fb;
+}
+
+.services-div-1 {
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    color: white;
+    background-color: #2b2a2f;
+    height: 580px;
+    width: 350px;
+    border-radius: 50px;
+}
+
+.basic-btn {
+    position: absolute;
+    top: 26px;
+    left: 48px;
+    width: 251px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.basic-ul {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    text-align: left;
+}
+
+.basic-price {
+    position: absolute;
+    top: 370px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 22px;
+    width: 100%;
+    background-color: #454d55;
+    height: 30px;
+}
+
+.basic-1 {
+    position: absolute;
+    top: 400px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #95999c;
+    width: 100%;
+    height: 30px;
+}
+
+.basic-2 {
+    position: absolute;
+    top: 430px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #454d55;
+    width: 100%;
+    height: 30px;
+}
+
+.basic-3 {
+    position: absolute;
+    top: 460px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #95999c;
+    width: 100%;
+    height: 30px;
+}
+
+.basic-buy {
+    position: absolute;
+    top: 520px;
+    left: 111px;
+    width: 130px;
+    height: 35px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+.basic-buy:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.services-div-2 {
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    color: white;
+    background-color: #2b2a2f;
+    height: 580px;
+    width: 350px;
+    border-radius: 50px;
+}
+
+.services-div-3 {
+    position: absolute;
+    top: 120px;
+    left: 770px;
+    color: white;
+    background-color: #2b2a2f;
+    height: 580px;
+    width: 350px;
+    border-radius: 50px;
+}
+
+.our_services {
+    position: absolute;
+    top: 3522px;
+    left: 400px;
+    width: 1150px;
+    height: 700px;
+}
+
+.modal {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.close {
+    position: absolute;
+    top: 12px;
+    right: 30px;
+    left: auto;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    z-index: 10;
+    border-radius: 8px;
+    font-weight: 1000;
+    border: none;
+}
+
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 10px 10px 0px 0px ;
+}
+
+.content {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 100%;
+    height: 460px;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    position: absolute;
+    top: 40px;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.trc20 {
+    width: 50px;
+}
+
+.trc20foot {
+    position: absolute;
+    width: 100px;
+    bottom: 10px;
+    left: 30px;
+}
+
+.bnbimgfoot {
+    position: absolute;
+    width: 89px;
+    bottom: 32px;
+    left: 213px;
+}
+
+.paypalfoot {
+    position: absolute;
+    width: 95px;
+    bottom: 27px;
+    left: 379px;
+}
+
+.contact {
+    position: absolute;
+    top: 4322px;
+    left: 400px;
+    width: 1150px;
+    height: 700px;
+}
+
+
+.contact-p {
+    position: absolute;
+    top: 20px;
+    left: 499px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #b8e0fb;
+}
+
+.enquiry-div {
+    position: absolute;
+    top: 100px;
+    left: 506px;
+    width: 600px;
+    height: 548px;
+    background-color: #07102c;
+    border-radius: 28px;
+}
+
+.enuiryform {
+    position: absolute;
+    top: 10px;
+    left: 200px;
+    color: white;
+    font-weight: bold;
+    font-size: 22px ;
+
+}
+
+#username {
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width: 500px;
+    height: 40px;
+    font-size: 22px;
+    border: none;
+    background-color: #07102c;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    font-style:italic
+}
+
+#username:focus {
+    outline: none;
+}
+
+#contatnumber:focus {
+    outline: none;
+}
+
+#email:focus {
+    outline: none;
+}
+
+#service:focus {
+    outline: none;
+}
+
+
+#contatnumber {
+    position: absolute;
+    top: 160px;
+    left: 20px;
+    width: 500px;
+    height: 40px;
+    font-size: 22px;
+    border: none; 
+    background-color: #07102c;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    font-style:italic
+}
+
+#email {
+    position: absolute;
+    top: 220px;
+    left: 20px;
+    width: 500px;
+    height: 40px;
+    font-size: 22px;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: #07102c;
+    color: white;
+    font-style:italic
+}
+
+#service {
+    position: absolute;
+    top: 280px;
+    left: 20px;
+    width: 500px;
+    height: 40px;
+    font-size: 22px;
+    border: none; 
+    background-color: #07102c;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    font-style:italic
+}
+
+.terms {
+    position: absolute;
+    top: 364px;
+    left: 20px;
+    font-size: 17px;
+    color: white;
+    text-align: left;
+}
+
+.newslater {
+    position: absolute;
+    top: 404px;
+    left: 20px;
+    font-size: 17px;
+    color: white;
+    text-align: left;
+}
+
+.submitenquiry {
+    position: absolute;
+    top: 480px;
+    left: 180px;
+    background-color: #00bfff;
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.submitenquiry:hover {
+    background-color: black;
+    color: white;
+}
+
+.address {
+    position: absolute;
+    top: 100px;
+    left: 26px;
+    width: 400px;
+    height: 548px;
+    border-radius: 8px;
+
+}
+
+.address-p {
+    position: absolute;
+    top: 10px;
+    left: 147px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.address-line {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    color: #d1d1d1;
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: left;
+}
+
+.address-phone {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    color: #d1d1d1;
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: left; 
 }
