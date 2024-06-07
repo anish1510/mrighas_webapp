@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/mrighas_webapp/static/css/main.f855e6bc.css",
-    "main.js": "/mrighas_webapp/static/js/main.1398739d.js",
+    "main.css": "/mrighas_webapp/static/css/main.a666b333.css",
+    "main.js": "/mrighas_webapp/static/js/main.d2f9a941.js",
     "static/js/453.5e2df3f3.chunk.js": "/mrighas_webapp/static/js/453.5e2df3f3.chunk.js",
-    "static/media/logo.svg": "/mrighas_webapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/trade_world_bg.webp": "/mrighas_webapp/static/media/trade_world_bg.a07144a683b9ef3c2600.webp",
+    "static/media/bnbimg.png": "/mrighas_webapp/static/media/bnbimg.9424ae8ec68e38656698.png",
+    "static/media/50ximg.webp": "/mrighas_webapp/static/media/50ximg.06260189d2a10945d2a0.webp",
+    "static/media/aiimg.webp": "/mrighas_webapp/static/media/aiimg.e704cc2fe89eb69b3082.webp",
+    "static/media/hero_iphone.webp": "/mrighas_webapp/static/media/hero_iphone.f7b3cf86615ad5c9e425.webp",
+    "static/media/sleepimg.webp": "/mrighas_webapp/static/media/sleepimg.599e5ec5ce454a41cd2d.webp",
+    "static/media/tradeimg.webp": "/mrighas_webapp/static/media/tradeimg.4e95d00efd45a251237f.webp",
+    "static/media/logo.png": "/mrighas_webapp/static/media/logo.a558111aff8a2714e959.png",
+    "static/media/expertimg.avif": "/mrighas_webapp/static/media/expertimg.e7d7d0f23ca5d4a27f17.avif",
+    "static/media/maimg.webp": "/mrighas_webapp/static/media/maimg.d34472404839c98b8654.webp",
+    "static/media/botimg.webp": "/mrighas_webapp/static/media/botimg.d338832b2edb9a883b9d.webp",
+    "static/media/taimg.webp": "/mrighas_webapp/static/media/taimg.868869a2d4b80a254c73.webp",
+    "static/media/iiimg.webp": "/mrighas_webapp/static/media/iiimg.ccc70d850897b0600bd5.webp",
+    "static/media/check-mark.webp": "/mrighas_webapp/static/media/check-mark.f942a3b034db12c15d1d.webp",
+    "static/media/eximg.webp": "/mrighas_webapp/static/media/eximg.d76ddc69a3a702d1f2fb.webp",
+    "static/media/psimg.webp": "/mrighas_webapp/static/media/psimg.f099785e708f5b7004e4.webp",
+    "static/media/rrimg.webp": "/mrighas_webapp/static/media/rrimg.e29200cd981b45626ca6.webp",
+    "static/media/paypalimg.webp": "/mrighas_webapp/static/media/paypalimg.9edf22520c68fcc6052f.webp",
+    "static/media/trc20.svg": "/mrighas_webapp/static/media/trc20.0aff1a8f6ebcef38c24d781842d6bcbc.svg",
     "index.html": "/mrighas_webapp/index.html",
-    "main.f855e6bc.css.map": "/mrighas_webapp/static/css/main.f855e6bc.css.map",
-    "main.1398739d.js.map": "/mrighas_webapp/static/js/main.1398739d.js.map",
+    "main.a666b333.css.map": "/mrighas_webapp/static/css/main.a666b333.css.map",
+    "main.d2f9a941.js.map": "/mrighas_webapp/static/js/main.d2f9a941.js.map",
     "453.5e2df3f3.chunk.js.map": "/mrighas_webapp/static/js/453.5e2df3f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1398739d.js"
+    "static/css/main.a666b333.css",
+    "static/js/main.d2f9a941.js"
   ]
 }
