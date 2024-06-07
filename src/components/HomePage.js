@@ -54,7 +54,7 @@ function HomePage() {
             },
             body: JSON.stringify(userData)
         });
-        alert("Your enruiry is submited. Someone will contact you soon....")
+        alert("Your enruiry is submited. Someone will contact you soon...")
       }
     
     return(
